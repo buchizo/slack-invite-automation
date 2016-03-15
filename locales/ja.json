@@ -1,0 +1,6 @@
+{
+	"HEADER": "Slack上の %s に参加するにはメールアドレスを入力してください！",
+	"ENTER_EMAIL": "あなたのメールアドレス",
+	"ENTER_TOKEN": "Enter the invite token you were given",
+	"TITLE": "%s に参加！"
+}
